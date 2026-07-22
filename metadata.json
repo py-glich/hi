@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Sensory Paper Converter",
+  "description": "An automated accessibility platform for blind and low-vision researchers that converts technical PDFs into spoken math logic, tactile SVGs, and semantic figure summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
